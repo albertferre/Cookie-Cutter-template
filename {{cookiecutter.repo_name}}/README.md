@@ -1,7 +1,7 @@
 ## {{cookiecutter.project_name}}
 
-{{cookiecutter.description}}
+add description here
 
 ## License
 
-{{cookiecutter.open_source_license}}
+add license here
