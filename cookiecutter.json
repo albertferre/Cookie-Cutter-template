@@ -1,5 +1,6 @@
 {
-    "directory_name": "project-name",
+    "project_name": "my project",
+    "repo_name": "{{cookiecutter.project_name.lower().replace(' ', '_') }}",
     "author_name": "your-name",
     "compatible_python_versions": "^3.8"
 }
